@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+
+
+
+
+
+#header4-1 H1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+#header4-1 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+#header2-8 H1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+#header2-8 P {
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+#gallery1-5 SMALL {
+  font-family: 'Arimo', sans-serif;
+  color: #efefef;
+}
+#header2-9 H1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
