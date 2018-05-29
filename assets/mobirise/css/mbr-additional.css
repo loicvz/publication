@@ -1,7 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+
+
+
+
+
 
 
 
@@ -427,14 +432,96 @@ h6,
 #header1-d .mbr-section-lead {
   text-align: center;
   color: #28324e;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
 }
 #header1-d .mbr-section-title SPAN {
   font-family: 'PT Serif', serif;
 }
-#header1-w .mbr-section-lead {
-  color: #28324e;
+#header1-d .btn {
+  font-family: 'PT Serif', serif;
 }
-#header1-w .mbr-section-lead SPAN {
+#menu-1j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1j .navbar-caption {
+  color: #ffffff;
+}
+#menu-1j .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1j .close-icon::before,
+#menu-1j .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1j .link,
+#menu-1j .dropdown-item {
+  color: #ffffff;
+}
+#menu-1j .link {
+  font-size: 0.75rem;
+}
+#menu-1j .dropdown-item,
+#menu-1j .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1j .link:hover,
+#menu-1j .dropdown-item:hover,
+#menu-1j .link:focus,
+#menu-1j .dropdown-item:focus {
+  color: #e9e9e9;
+}
+#menu-1j .link[aria-expanded="true"],
+#menu-1j .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-1j .nav-dropdown-sm .link:focus,
+#menu-1j .nav-dropdown-sm .link:hover,
+#menu-1j .nav-dropdown-sm .dropdown-item:focus,
+#menu-1j .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-1j .navbar,
+#menu-1j .nav-dropdown-sm,
+#menu-1j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1j .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-1j .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1j .bg-color.transparent.opened .link:hover,
+#menu-1j .bg-color.transparent.opened .link:focus {
+  color: #e9e9e9;
+}
+#menu-1j .link[aria-expanded="true"],
+#menu-1j .dropdown-item[aria-expanded="true"] {
+  color: #e9e9e9!important;
+}
+#header1-1k .mbr-section-title {
+  font-size: 46px;
+  color: #28324e;
+  font-family: 'Oxygen', sans-serif;
   text-align: center;
+}
+#header1-1k .mbr-section-lead {
+  text-align: center;
+  color: #28324e;
+  font-family: 'PT Serif', serif;
+}
+#header1-1k .mbr-section-title SPAN {
+  font-family: 'PT Serif', serif;
+}
+#header1-1k .btn {
+  font-family: 'PT Serif', serif;
+}
+#content1-1l P {
+  text-align: left;
+}
+#content1-1l DIV {
+  color: #28324e;
+  font-family: 'PT Serif', serif;
 }
